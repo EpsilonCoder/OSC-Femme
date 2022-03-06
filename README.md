@@ -10,3 +10,7 @@ très populaire pour les applications web.Le motif est composé de trois types d
 # Démonstration
 
 <img src="https://github.com/EpsilonCoder/OSC-Femme/blob/master/image-demo/demo.gif" width=100%/>
+
+# Merci 
+
+<img src="https://i.pinimg.com/originals/1f/ae/0f/1fae0f96d212ce954bc2f3981ca67d20.gif" width=100% />
