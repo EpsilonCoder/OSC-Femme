@@ -32,7 +32,6 @@ class ContactController
                 if (isset($_POST['add'])) {
                     extract($_POST);
                     $this->ContactModel->inserer($nom, $dte, $regime, $sociale, $registre, $ninea, $web);
-                    header('location:/index.php');
                 }
                 break;
 
